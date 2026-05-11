@@ -1,0 +1,6 @@
+web3>=6.15.0,<8.0.0
+eth-account>=0.11.0
+requests>=2.31.0
+python-telegram-bot>=20.7
+schedule>=1.2.0
+cryptography>=42.0.0
